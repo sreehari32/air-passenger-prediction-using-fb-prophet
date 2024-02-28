@@ -1,0 +1,7 @@
+Flask
+Scikit-learn
+Pandas
+Numpy
+Matplotlib
+pystan
+fbprophet
